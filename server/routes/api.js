@@ -50,19 +50,19 @@ router.get("/", (req, res, next) => {
   Product_Categories.find({}).then((cat) => res.status(200).json(cat));
 });
 
-/* router.get("/products", (req, res, next) => {
+router.get("/products", (req, res, next) => {
   Products.find({}).then((products_data) => {
     res.status(200).json(products_data);
   });
-}); */
+});
 
-/* router.get("/product/:id", (req, res, next) => {
+router.get("/product/:id", (req, res, next) => {
   Products.findOne({ id: req.params.id }).then((prDetails) => {
     res.status(200).json(prDetails);
   });
-}); */
+});
 
-/* router.get("/settings", (req, res, next) => {
+router.get("/settings", (req, res, next) => {
   Settings.find({}).then((sett) => res.status(200).json(sett));
 });
 
@@ -71,6 +71,6 @@ router.get("/users/:id", (req, res, next) => {
     res.status(200).json(userDetails);
     console.log(userDetails);
   });
-}); */
+});
 
 export default router;

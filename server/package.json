@@ -2,7 +2,6 @@
   "name": "server",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -13,8 +12,11 @@
   "license": "ISC",
   "dependencies": {
     "6": "^0.0.1",
+    "dotenv": "^16.0.1",
     "express": "^4.17.3",
+    "mongoose": "^6.3.5",
     "node": "^17.7.2",
     "nodemon": "^2.0.15"
-  }
+  },
+  "description": ""
 }

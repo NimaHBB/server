@@ -13,14 +13,14 @@ const port = process.env.PORT || 5000;
 app.use(express.json());
 
 // Serve the React static files after build
-/* app.use(express.static(path.resolve(__dirname, "public"))); */
+app.use(express.static(path.resolve(__dirname, "public")));
 
 // Serve API
 app.use("/api", api);
 
 // All other GET requests not handled before will return our React app
-/* app.get("*", (req, res) => {
+app.get("*", (req, res) => {
   res.sendFile(path.resolve(__dirname, "public", "index.html"));
 });
- */
+
 app.listen(port, () => console.log(`Listening on port ${port}`));

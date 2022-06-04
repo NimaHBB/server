@@ -8,8 +8,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
-const port = process.env.PORT || 5000;
-
+/* const port = process.env.PORT || 5000;
+ */
 app.use(express.json());
 
 // Serve the React static files after build
@@ -23,4 +23,4 @@ app.use("/api", api);
   res.sendFile(path.resolve(__dirname, "public1", "index.html"));
 }); */
 
-app.listen(port, () => console.log(`Listening on port ${port}`));
+app.listen();

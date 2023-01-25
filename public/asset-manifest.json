@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.82e7b6f5.css",
-    "main.js": "/static/js/main.072ff2fb.js",
+    "main.css": "/static/css/main.2eb027f4.css",
+    "main.js": "/static/js/main.fd9c329f.js",
+    "static/media/logo-Blue-cool-cat.jpeg": "/static/media/logo-Blue-cool-cat.8b0e5ab8ca1000a54de9.jpeg",
     "static/media/drilling-machine.png": "/static/media/drilling-machine.d83f4c379a9fd6a5b8d7.png",
+    "static/media/logo-120x500-Blue-cool-cat.jpeg": "/static/media/logo-120x500-Blue-cool-cat.ec62f8ecb2a580002b20.jpeg",
+    "static/media/logoPink.jpeg": "/static/media/logoPink.064e0cc48be18ccb041a.jpeg",
     "static/media/sport.png": "/static/media/sport.4d2fd0226be26b0c9fcc.png",
     "static/media/basket2.svg": "/static/media/basket2.8492c9d53ce8104fedce763bcfe3e975.svg",
     "static/media/favorite.svg": "/static/media/favorite.f8a9ae951d8735c50bee.svg",
@@ -27,11 +30,11 @@
     "static/media/done.svg": "/static/media/done.983207f640fb42a9d859.svg",
     "static/media/back.svg": "/static/media/back.b9b1b1b9f53a15c0c8d8.svg",
     "static/media/menu.svg": "/static/media/menu.4e2c9a134d764c0196df.svg",
-    "main.82e7b6f5.css.map": "/static/css/main.82e7b6f5.css.map",
-    "main.072ff2fb.js.map": "/static/js/main.072ff2fb.js.map"
+    "main.2eb027f4.css.map": "/static/css/main.2eb027f4.css.map",
+    "main.fd9c329f.js.map": "/static/js/main.fd9c329f.js.map"
   },
   "entrypoints": [
-    "static/css/main.82e7b6f5.css",
-    "static/js/main.072ff2fb.js"
+    "static/css/main.2eb027f4.css",
+    "static/js/main.fd9c329f.js"
   ]
 }

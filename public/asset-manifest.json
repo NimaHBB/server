@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.66fee1d2.css",
+    "main.css": "/static/css/main.fb3d4484.css",
     "main.js": "/static/js/main.4adf590f.js",
     "static/media/logo-Blue-cool-cat.jpeg": "/static/media/logo-Blue-cool-cat.8b0e5ab8ca1000a54de9.jpeg",
     "static/media/drilling-machine.png": "/static/media/drilling-machine.d83f4c379a9fd6a5b8d7.png",
@@ -29,11 +29,11 @@
     "static/media/done.svg": "/static/media/done.983207f640fb42a9d859.svg",
     "static/media/back.svg": "/static/media/back.b9b1b1b9f53a15c0c8d8.svg",
     "static/media/menu.svg": "/static/media/menu.4e2c9a134d764c0196df.svg",
-    "main.66fee1d2.css.map": "/static/css/main.66fee1d2.css.map",
+    "main.fb3d4484.css.map": "/static/css/main.fb3d4484.css.map",
     "main.4adf590f.js.map": "/static/js/main.4adf590f.js.map"
   },
   "entrypoints": [
-    "static/css/main.66fee1d2.css",
+    "static/css/main.fb3d4484.css",
     "static/js/main.4adf590f.js"
   ]
 }
